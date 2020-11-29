@@ -1,2 +1,16 @@
 .vscode
 bin
+test/bin/
+target/
+doc/
+.rust
+*.so
+*.o
+*.swp
+Cargo.lock
+
+
+
+# Added by cargo
+
+/target

@@ -1,0 +1,14 @@
+[package]
+name = "cses"
+version = "0.1.0"
+authors = ["Vamsi Krishna Brahmajosyula <vamsikrishna.brahmajosyula@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+
+[[bin]]
+name = "traffic_lights"
+path = "src/traffic_lights.rs"
